@@ -24,7 +24,7 @@ The only other surprise was picking up a running buddy beforehand. Aaron Cuskera
 
 We got started in Ballintoy at 8:20. The first section took us along beaches, through a few technical rocky sections and then around the coast to the Giant’s Causeway.
 
-![Standing at the race start line in Ballintoy](https://lambent-malasada-abcf24.netlify.app/images/start-ballintoy.jpeg)
+![Standing at the race start line in Ballintoy](https://lambent-malasada-abcf24.netlify.app/images/start-ballintoy.jpeg){:class="rounded-xl mx-auto"}
 
 The event was organised that well, I’m almost sure Gary and Gillian had a hand in the weather too. Clear blue skies, the sun beaming down and a nice sea breeze. One of those days where there’s nowhere you’d rather be than on the North coast. It made the first section so enjoyable as there was stunning scenery around every corner.
 
