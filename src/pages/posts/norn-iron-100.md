@@ -4,7 +4,7 @@ pubDate: "2022-06-06"
 slug: "norn-iron-100"
 description: "Joining the 100 mile club."
 hero: "/images/moydamlaght.jpg"
-tags: ["javascript"]
+tags: ["ultramarathon"] ["race report"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
