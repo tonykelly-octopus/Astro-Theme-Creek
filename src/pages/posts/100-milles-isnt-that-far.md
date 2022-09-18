@@ -1,6 +1,7 @@
 ---
 title: "100 miles isn't that far, is it?"
 description: "Planning for a 100 mile ultramarathon."
+slug: "100-miles-isnt-that-far-is-it"
 pubDate: "2021-11-24"
 hero: "/images/eagles-rock.jpg"
 tags: ["ultramarathon"]
