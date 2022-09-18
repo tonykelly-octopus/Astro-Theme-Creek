@@ -1,85 +1,58 @@
 ---
-title: "Introducing Astro: Ship Less JavaScript"
-description: "We're excited to announce Astro as a new way to build static websites and deliver lightning-fast performance without sacrificing a modern developer experience."
-pubDate: "2021-06-08"
-hero: "/images/introducing-astro.jpg"
-tags: ["astro"]
+title: "100 miles isn't that far, is it?"
+description: "Planning for a 100 mile ultramarathon."
+pubDate: "2021-11-24"
+hero: "/images/eagles-rock.jpg"
+tags: ["ultramarathon"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-There's a simple secret to building a faster website — _just ship less_.
+Sometimes you just need to bite the bullet and jump.
 
-Unfortunately, modern web development has been trending in the opposite direction—towards _more._ More JavaScript, more features, more moving parts, and ultimately more complexity needed to keep it all running smoothly.
+I’ve been toying with the idea of entering an Ultra marathon race for over a year. I’d planned to run a 50 miler in 2021, but a few injuries and the arrival of baby Shea put those plans back a little.
 
-Today I'm excited to publicly share Astro: a new kind of static site builder that delivers lightning-fast performance with a modern developer experience. To design Astro, we borrowed the best parts of our favorite tools and then added a few innovations of our own, including:
+When I caught a glimpse of the We Run Wild NI 100 mile Ultra Marathon along the Ulster Way, I knew it was the one.
 
-- **Bring Your Own Framework (BYOF):** Build your site using React, Svelte, Vue, Preact, web components, or just plain ol' HTML + JavaScript.
-- **100% Static HTML, No JS:** Astro renders your entire page to static HTML, removing all JavaScript from your final build by default.
-- **On-Demand Components:** Need some JS? Astro can automatically hydrate interactive components when they become visible on the page. If the user never sees it, they never load it.
-- **Fully-Featured:** Astro supports TypeScript, Scoped CSS, CSS Modules, Sass, Tailwind, Markdown, MDX, and any of your favorite npm packages.
-- **SEO Enabled:** Automatic sitemaps, RSS feeds, pagination and collections take the pain out of SEO and syndication.
+What sealed the deal was that the route passes through Moydamlaght and Eagle’s Rock. A mountain about 5 miles from home that I spent many a weekend rambling around. It remains to be seen how fun a ramble around it will be after 70 miles or so on the road (and beach, cliff-tops, fields and trails).
 
-This post marks the first public beta release of Astro. **Missing features and bugs are still to be expected at this early stage.** There are still some months to go before an official 1.0 release, but there are already several fast sites built with Astro in production today. We would love your early feedback as we move towards a v1.0 release later this year.
+## The plan
 
-> To learn more about Astro and start building your first site, check out [the project README.](https://github.com/snowpackjs/astro#-guides).
+First thing was to find a 100 mile training plan.
 
-## Getting Started
+It wasn’t as intense as I had imagined. Running five days a week with one long run during the week is pretty manageable coming off the back of my run every day for a year escapade. Some weekends will be heavy going; the latter half of the program has 30 mile runs on Saturday, followed by another 20 miles on Sunday.
 
-Starting a new project in Astro is easy:
+If you haven’t worked it out by now, there are (and will continue to be) many ‘Fuck it, just do it’ moments. Think about things too much and your brain will become your worst enemy.
 
-```shell
-# create your project
-mkdir new-project-directory
-cd new-project-directory
-npm init astro
+A funny side story to that. On our recent Sunday run we’d completed three loops of our mountain trail and were deliberating doing a fourth. As we reached the gate my running buddy Joe said, ‘Fuck it, just do it’. I knew I’d picked the right mantra and having someone running with you who thinks the same way is a huge help.
 
-# install your dependencies
-npm install
+A 25 week training program means kicking off around mid-December with the race scheduled for early June. I’m aiming to get a 50 mile race in around February or March in 2022.
 
-# start the dev server and open your browser
-npm run dev
-```
+## Preparation
 
-> To learn more about Astro and start building your first site, check out [the project README.](https://github.com/snowpackjs/astro#-guides).
+I’m realistic in that I know there is a high risk of failure in any ultra, never mind my first 100 miler. Getting to the start line injury free will be a feat in itself.
 
-## How Astro Works
+I think you just need to accept that as part of ultra running. Longer distance typically means more aches and pains. I’m not blessed with pace, so slowing things down and trying to preserve the legs for as long as possible will suit me.
 
-Astro works a lot like a static site generator. If you have ever used Eleventy, Hugo, or Jekyll (or even a server-side web framework like Rails, Laravel, or Django) then you should feel right at home with Astro.
+Base building has already started and will continue for the next month or so. Starting to get into the rhythm of the training program; out 5 days a week with a few long runs in the mountains at the weekend.
 
-In Astro, you compose your website using UI components from your favorite JavaScript web framework (React, Svelte, Vue, etc). Astro renders your entire site to static HTML during the build. The result is a fully static website with all JavaScript removed from the final page. No monolithic JavaScript application required, just static HTML that loads as fast as possible in the browser regardless of how many UI components you used to generate it.
+## Sleep and diet
 
-Of course, sometimes client-side JavaScript is inevitable. Image carousels, shopping carts, and auto-complete search bars are just a few examples of things that require some JavaScript to run in the browser. This is where Astro really shines: When a component needs some JavaScript, Astro only loads that one component (and any dependencies). The rest of your site continues to exist as static, lightweight HTML.
+Being plant based already, my diet’s already in pretty good shape. Few things to iron out, but I won’t have to make any spectacular changes. Remove some junk and processed food and we’re good to go.
 
-In other full-stack web frameworks this level of per-component optimization would be impossible without loading the entire page in JavaScript, delaying interactivity. In Astro, this kind of [partial hydration](https://addyosmani.com/blog/rehydration/) is built into the tool itself.
+I'll be following the 28 day meal plan in The Plant-Based Diet Revolution by Dr Alan Desmond. If it works out, I'll do that on repeat throughout the program.
 
-You can even [automatically defer components](https://codepen.io/jonneal/full/ZELvMvw) to only load once they become visible on the page with the `client:visible` directive.
+I’m going to hammer sleep hard through as much of the program as possible. For a few months in early 2021 I followed advice around sleep from the Huberman Lab podcast and my quality of sleep was incredible. Some of those good habits include:
 
-This new approach to web architecture is called [islands architecture](https://jasonformat.com/islands-architecture/). We didn't coin the term, but Astro may have perfected the technique. We are confident that an HTML-first, JavaScript-only-as-needed approach is the best solution for the majority of content-based websites.
+- Getting outside for at least 10 minutes around sunrise (early morning runs really help with this)
+- Getting outside at sunset
+- Ceiling lights out after 8.30pm
+- No screens or phones after 8.30pm
+- No caffeine after 4pm
+- Bed at 9.30pm
+- Awake at 5.30am
 
-> To learn more about Astro and start building your first site, check out [the project README.](https://github.com/snowpackjs/astro#-guides)
+If I can stick to that plan as much as possible (weekends included), I’ll be in a good place.
 
-## Embracing the Pit of Success
+I’ll be back with another update around the start of the program. I can already feel the running obsession setting back in. It makes answering the 5.30am alarm clock that little bit easier.
 
-> A well-designed system makes it easy to do the right things and annoying (but not impossible) to do the wrong things<div class="source"><p>– Jeff Atwood</p>[Falling Into The Pit of Success](https://blog.codinghorror.com/falling-into-the-pit-of-success/)</div>
-
-Poor performance is often framed as a failure of the developer, but we respectfully disagree. In many cases, poor performance is a failure of tooling. It should be difficult to build a slow website.
-
-Astro's main design principle is to lead developers into what [Rico Mariani](https://twitter.com/ricomariani) dubbed "the pit of success". It is our goal to build every site "fast by default" while also delivering a familiar, modern developer experience.
-
-By building your site to static HTML by default, Astro makes it difficult (but never impossible 😉) to build a slow site.
-
-## Long-Term Sustainability
-
-Astro is built by the team of open source developers behind [Snowpack](https://snowpack.dev) and [Skypack](https://skypack.dev), with additional contributions from the community.
-
-**Astro is and always will be free.** It is an open source project released under the [MIT license](https://github.com/snowpackjs/astro/blob/main/LICENSE).
-
-We care deeply about building a more sustainable future for open source software. At the same time, we need to support Astro's development long-term. This requires money (donations alone aren't enough.)
-
-We're inspired by the early success of projects like [Tailwind](https://tailwindcss.com/), [Rome](https://rome.tools/), [Remix](https://remix.run/), [Ionic](https://ionicframework.com/), and others who are experimenting with long-term financial sustainability on top of Open Source. Over the next year we'll be exploring how we can create a sustainable business to support a 100% free, open source Astro for years to come.
-
-If your company is as excited about Astro as we are, [we'd love to hear from you.](https://astro.build/chat)
-
-Finally, I'd like to give a **HUGE** thanks to the 300+ developers who joined our earliest private beta. Your feedback has been essential in shaping Astro into the tool it is today. If you're interested in getting involved (or just following along with development) please [join us on Discord.](https://astro.build/chat)
-
-> To learn more about Astro and start building your first site, check out [the project README.](https://github.com/snowpackjs/astro#-guides)
+Time to see how deep this rabbit hole goes. Fuck it, just do it.
