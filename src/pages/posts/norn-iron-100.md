@@ -24,8 +24,6 @@ The only other surprise was picking up a running buddy beforehand. Aaron Cuskera
 
 We got started in Ballintoy at 8:20. The first section took us along beaches, through a few technical rocky sections and then around the coast to the Giant’s Causeway.
 
-![Standing at the race start line in Ballintoy](https://raw.githubusercontent.com/TonyKelly1/Astro-Theme-Creek/master/public/images/start-ballintoy.jpeg){:class="rounded-xl mx-auto"}
-
 The event was organised that well, I’m almost sure Gary and Gillian had a hand in the weather too. Clear blue skies, the sun beaming down and a nice sea breeze. One of those days where there’s nowhere you’d rather be than on the North coast. It made the first section so enjoyable as there was stunning scenery around every corner.
 
 The first major aid station came at Articlave Orange Hall at around 34 miles. A quick toilet break, a cup of vegan soup and an outfit change and we were back on the road.
@@ -37,7 +35,6 @@ One of the toughest sections was in the middle of the race from around mile 50 t
 It’s a dangerous game to start getting competitive with such a long way to go, but this is where our vast experience started to kick in (rolls eyes and shakes head to oneself). Without any words being spoken, Aaron and I started to pick up the pace a bit to start catching the lights in front.
 
 We eventually caught up with Wayne and David who were great company to get through another few mountains and wind farms before reaching Dungiven. The steep downhill before Dungiven was tough on the knees, but we were glad to reach Kevin Lynches hurling club for soup and pasta.
-
 
 The team at Dungiven aid station were absolute stars. Refilling water bladders, preparing food and generally prohibiting runners from doing anything that involved getting out of their seats. It was much needed at 4am and we were all extremely grateful for their care and attention.
 
